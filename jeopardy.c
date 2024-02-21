@@ -111,7 +111,7 @@ int main(int argc, char *argv[])
         display_question(category, value);
 
         // Prompt for the answer
-        printf("Enter your answer (start with 'what is' or 'who is'): ");
+        printf("Enter your answer ");
         fgets(buffer, BUFFER_LEN, stdin);
         buffer[strcspn(buffer, "\n")] = '\0';
 
