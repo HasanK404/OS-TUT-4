@@ -5,7 +5,7 @@
  - Hasan Khan: 100820450
  - 
 # Installation & Usage
-To install `myshell`, follow these steps:
+To install play the game , follow these steps:
 1. Clone the repository to your local machine.
    ```bash
    git clone OS-TUT-4
