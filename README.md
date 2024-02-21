@@ -3,7 +3,7 @@
  - David Hanna : 100828635
  - Rishab Sachedeva: 100848814
  - Hasan Khan: 100820450
- - 
+
 # Installation & Usage
 To install play the game , follow these steps:
 1. Clone the repository to your local machine.
